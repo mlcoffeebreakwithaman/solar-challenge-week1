@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+
+# Ignore data
+data/
+*.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
